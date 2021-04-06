@@ -1,0 +1,21 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamnitti/git-node-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamnitti/git-node-examples/issues"
+  },
+  "homepage": "https://github.com/adamnitti/git-node-examples#readme"
+}
